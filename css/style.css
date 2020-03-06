@@ -1,0 +1,31 @@
+body{
+    background-color: #edf0f5;
+}
+#create {
+  margin: px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 5px;
+  height: 40px;
+}
+
+#lastlinks{
+margin-left: 90px;
+
+}
+#lastlinks > a{
+  color: #3b5998;
+}
+#signup{
+  background:#5b9247; 
+  color: white; 
+  text-align: center; 
+  width: 145px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  border: #5e984b;
+}
